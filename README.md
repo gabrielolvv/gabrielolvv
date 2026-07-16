@@ -80,6 +80,6 @@ I am building a public portfolio focused on practical backend and automation sce
 
 ## Contact
 
-- LinkedIn: [Gabriel Oliveira](https://www.linkedin.com/in/gabriel-oliveira-805267210/)
+- LinkedIn: [Gabriel Oliveira](https://www.linkedin.com/in/gabrielolvv)
 - Email: Available on request
 - GitHub: [github.com/gabrielolvv](https://github.com/gabrielolvv)
