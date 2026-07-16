@@ -6,8 +6,6 @@ I am a Full-Stack Developer with stronger experience in backend development, wor
 
 My main stack includes Node.js, TypeScript, JavaScript, PHP, Laravel, C#, .NET, React and MySQL. I also work with REST APIs, spreadsheet processing, PDF extraction, web automation, Docker, AWS S3 and Git.
 
-I am currently improving my English and preparing for remote international opportunities where I can contribute to backend systems, automation workflows and reliable business applications.
-
 ## About Me
 
 - Graduated in Systems Analysis and Development.
